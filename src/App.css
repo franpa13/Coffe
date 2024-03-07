@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+*{
+font-family: "DM Sans", sans-serif;
+}
+h1 {
+  font-family: "DM Sans", sans-serif;
+}
+.imagen{
+  background-color: #1B1D1F;
+}
+.todo{
+  background-color: #1B1D1F;
+}
+.div__grande {
+  background-color:#1B1D1F ;
+
+}
+
+.btn {
+  background-color: #6F757C;
+  color: #FEF7EE;
+
+}
+
+.cl {
+  background-color: #1B1D1F;
+}
+
+.presentacion {
+  color: #6F757C;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
